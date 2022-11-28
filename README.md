@@ -1,1 +1,1 @@
-# startspieler-bestimmen
+view at https://www.startspieler-bestimmen.de/
