@@ -10,5 +10,6 @@ dataCallback({
         "wer die höchste Zahl in den letzten 4 Ziffern der Handynummer hat",
         "wessen Arbeitsweg am längsten ist",
         "wer zuletzt Fahrrad gefahren ist",
+        "wer zuletzt Suppe gegessen hat",
     ]
 })
