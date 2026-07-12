@@ -32,7 +32,6 @@ dataCallback({
         "wer als letztes angekommen ist",
         "wer am meisten Akku beim Handy hat",
         "wer zuletzt etwas gespendet hat",
-        "wer schwarze Socken und gleichzeitig eine schwarze Unterhose trägt",
         "wer die längste Haftstrafe hinter sich hat",
         "wer zuletzt einen Strafzettel bekommen hat",
     ]
